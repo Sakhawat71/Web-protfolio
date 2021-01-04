@@ -42,8 +42,34 @@ section{
 .dream-area{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-background-position: right;
+    background-position: right;
 
 }
+.ed{
+    color: orange;
+}
+.singel-experiences{
+    box-shadow: 10px 20px 40px gray;
+    height: 80%;
+}
+.Experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
 
-
+#baby-wab{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    color: rgb(147, 147, 173);
+}
